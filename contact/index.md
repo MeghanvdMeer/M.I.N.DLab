@@ -14,18 +14,18 @@ We are located on the 3rd floor of the Science Centre.
   include link.html
   type="email"
   icon=""
-  text="Easton.White@unh.edu"
+  text="i.kirk@auckland.ac.nz"
   tooltip=""
-  link="Easton.White@unh.edu"
+  link="i.kirk@auckland.ac.nz"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(603) 862-4400"
+  text=" +64 93737599 Ext.88524 (Work)"
   tooltip=""
-  link="+1-603-862-4400"
+  link="+64 93737599"
   style="button"
 %}
 {%
