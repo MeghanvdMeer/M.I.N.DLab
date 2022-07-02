@@ -7,7 +7,8 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-Our lab is made up of a collaborative and diverse team of scientists. We value and actively work to create a lab, university, and community that is more diverse, inclusive, and equitable.
+We are a diverse research group working in the School of Psychology at the University of Auckland, New Zealand. Our goal is to shed light on the neural systems and dynamics that underly memory and neuroplasticity, and the impacts on of neuropsychological conditions/neuropathologies. 
+We employ functional and structural imaging, such as electroencephalography (EEG), functional magnetic resonance imaging (fMRI), and diffusion weighted imaging (DWI), to investigate the temporal and spatial neurodynamics and anatomical substrates of cognition. We work alongside the [Dementia Prevention Research Clinic (DPRC)] (https://www.auckland.ac.nz/en/fmhs/research/cbr/clinics/dprc.html) to further our understanding of Mild Cognitive Impairment and Alzheimer's Disease, engaging with the people affected by dementia, collecting data, and contributing analytic expertise. Our research interests also include auditory processing, cognitive enhancement
 
 
 {%
@@ -44,7 +45,7 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
 
 {% include section.html %}
 
-There are often openings for graduate students and postdoctoral fellows within the Quantitative Marine Ecology Lab. Please see the link below for more information. 
+There are often openings for graduate students and PhD students within the M.I.N.D Lab. Please see the link below for more information. 
 
 {%
   include link.html
