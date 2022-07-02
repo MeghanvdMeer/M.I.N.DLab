@@ -1,17 +1,16 @@
 ---
-name: Julia Saltzman
+name: Meghan van der Meer
 image: images/julia-saltzman.jpg
-description: M.S. Student 
+description: PhD Student
 role: grad
 group: current
 aliases:
-  - J. Saltzman
-  - Julia Saltzman
+  - M. van der Meer
 links:
-  email: jrs1231@wildcats.unh.edu
-  twitter: saltzyy
-  website: https://www.juliasaltzmanscience.com/ 
-  github: https://github.com/juliasaltzman1 
+  email: mvan754@aucklanduni.ac.nz
+  github: https://github.com/MeghanvdMeer 
 ---
 
-Julia Saltzman (she/her/hers) is an interdisciplinary marine conservation biologist interested in using quantitative tools and field observations to improve marine conservation. Julia's research focuses on the environmental influences on planktivorous elasmobranchs (manta rays, whale sharks, and mobula rays) in the Eastern Tropical Pacific.  Julia graduated from the University of Miami in 2021 with her bachelor’s in marine science, biology, and ecosystem science and policy.  Most recently, Julia worked under [Dr. Catherine Macdonald](https://www.drcatherinemacdonald.com/) at [Field School](https://www.getintothefield.com/) conducting research on Atlantic tarpon. Julia is passionate about education and outreach and is currently working with [Terranaut Club](https://terranautclub.com/usa/), where she helps to bring girls and underrepresented genders to the forefront of exciting, hands-on, immersive experiences in science and nature. Julia also works closely with [Laurel School](https://www.laurelschool.org/), an all-girls school in Ohio, where she serves as a mentor for high school students in their [capstone program](https://www.laurelschool.org/academics--arts/upper-school/the-capstone-experience). Julia can also be found giving presentations about sharks and ocean conservation to school age children, or anyone who she can get to listen! Julia spends most of her free time hanging out with her dog Jasper! 
+Meghan is a PhD candidate in the School of Psychology at the University of Auckland, New Zealand. She previously completed an MSc in Psychology in [Trinity College Dublin] (https://www.tcd.ie/), Ireland. During her Master’s programme she investigated extreme stress and false memory recall in the general population. This research was linked to why torture does not work by [Prof Shane O’Mara] (https://www.tcd.ie/research/profiles/?profile=smomara) and [Prof Aine Kelly] (https://www.tcd.ie/research/profiles/?profile=aikelly). 
+Meghan’s doctoral research focuses on the ageing brain with Prof Ian Kirk and Prof Lynette Tippett. She is looking at diffusion MRI and electroencephalogram (EEG) techniques linked to brain ageing specifically in Mild Cognitive Impairment (a prodromal stage of Alzheimer’s Disease). She works with the [Dementia Prevention Research Clinic (DPRC)] (https://www.auckland.ac.nz/en/fmhs/research/cbr/clinics/dprc.html) assisting with participants and MRI scans. She is also the lab manager of the M.I.N.D Lab. 
+
