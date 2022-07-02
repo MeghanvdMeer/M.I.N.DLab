@@ -1,23 +1,27 @@
 ---
-name: Easton R. White
+name: Ian J. Kirk
 image: images/easton_headshot.jpg
 description: Principal Investigator 
 role: pi
 group: current
 aliases:
-  - E.R. White
-  - E. White
-  - Easton R. White
-  - Easton White
+  - I.J. Kirk
 links:
   orcid: 0000-0002-0768-9555
-  email: Easton.White@unh.edu 
+  email: i.kirk@auckland.ac.nz 
   twitter: eastonrwhite
 ---
 
-I am a quantitative marine ecologist who uses mathematical and statistical tools, coupled with experiments and field observations, to answer questions in ecology, conservation science, sustainability, and ecosystem management. Most of my work is focused on marine systems, especially fisheries and spatial planning. I am a new Assistant Professor in the Department of Biological Sciences at the University of New Hampshire. Prior to joining UNH, I was a research associate at the University of Vermont with the QuEST program, a NSF-funded PhD traineeship focused on quantitative skills, interdisciplinary work, as well as diversity and inclusion.
+Ian obtained his PhD degree in Psychology and Neuroscience from University of Otago. Subsequent to his PhD he held post-doctoral fellowships at the Centre for Behavioural Neuroscience at the University of Calgary in Canada and at the Centre for Complex Systems and Brain Sciences at Florida Atlantic in the USA. 
+He has been a staff member in the School of Psychology at the University of Auckland since 2000, and leads the M.I.N.D Lab (Memory Imaging, Networks and Dynamics). 
 
-I currently conduct research on assessing the effectiveness of protected area networks, improving species monitoring programs, and modeling socio-ecological systems in the context of fisheries. My work centers on how environmental variability, in particular rare events (e.g., hurricanes, COVID-19 pandemic), affects ecosystems and those that depend on them. My current work is funded through a NSF grant focused on interdisciplinary approaches to study coupled natural-human systems with Madagascar fisheries as a case study.
+Ian has a special interest in EEG oscillations and diffusion imaging in working and recognition memory. As well as, human sensory long-term potentiation and applications in mild cognitive impairment and Alzheimer’s disease. Functional and structural connectomics in Alzheimer’s disease.
+
+**Committee/Professional groups/Services:**
+Director of the M.I.N.D Lab 
+PI in the Centre for Brain Research
+Advisory Committee member of the Dementia Prevention Research Clinics (DPRC)
+
 
 [Easton's CV as a pdf](https://quantmarineecolab.github.io/pdfs/EastonWhite_CV.pdf)
 
