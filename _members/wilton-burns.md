@@ -1,16 +1,14 @@
 ---
-name: Wilton Burns
+name: Jeffrey Kim
 image: images/wilton_burns_headshot.jpg
-description: PhD Student
+description: Masters Student
 role: grad
 group: current
 aliases:
-  - W. Burns
-  - Wilton Burns
+  - J. Kim
 links:
-  email: Wilton.Burns@unh.edu
-  twitter: SeawardScience
-  linkedin: wilton-burns-aa17a264
+  email: jkim732@aucklanduni.ac.nz
+ 
 ---
 
 Wilton Burns (she/her/hers) is a Marine Biology PhD student. She uses long-term monitoring, high-frequency water quality sensors, and satellite images to evaluate the drivers of nutrient and cyanobacteria blooms in freshwater and coastal aquatic ecosystems.
