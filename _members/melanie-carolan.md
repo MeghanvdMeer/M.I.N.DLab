@@ -1,5 +1,5 @@
 ---
-name: Melanie Carolan
+name: Milly Darragh
 image: images/melanie-carolan.jpg
 role: undergrad
 group: current
@@ -7,6 +7,9 @@ description: Undergraduate researcher
 aliases: 
   - M. Carolan
   - Melanie Carolan
+  
+email: mdar240@aucklanduni.ac.nz
+
 ---
 
 Melanie Carolan (she/her/hers) is a junior at Vassar College pursuing a degree in Earth science with a minor in mathematics. 
