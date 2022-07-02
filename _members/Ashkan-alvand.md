@@ -10,7 +10,7 @@ links:
   email: a.alvand@auckland.ac.nz
   home-page: http://ashkan-alvand.com
   github: m31glx
-  linkdin: https://www.linkedin.com/in/ashkan-alvand/
+  linkedin: https://www.linkedin.com/in/ashkan-alvand/
   twitter: M31_Glxy
   orcid: 0000-0002-2809-0613
 ---
