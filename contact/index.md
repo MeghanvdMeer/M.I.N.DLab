@@ -23,7 +23,7 @@ We are located on the 3rd floor of the Science Centre.
   include link.html
   type="phone"
   icon=""
-  text=" +64 93737599 Ext.88524 (Work)"
+  text=" +64 93737599"
   tooltip=""
   link="+64 93737599"
   style="button"
@@ -34,7 +34,7 @@ We are located on the 3rd floor of the Science Centre.
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Spaulding+Life+Sciences+Center/@43.1352016,-70.9367136,17z/data=!3m1!4b1!4m5!3m4!1s0x89e293bc50e412b9:0x187c7c86bbc71bd1!8m2!3d43.1352016!4d-70.9345249"
+  link="https://www.google.com/maps/place/University+of+Auckland+Science+Centre/@-36.8534771,174.7662611,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d47e38f2d6c09:0xd338cdc671eb1c3b!8m2!3d-36.8535209!4d174.7684058"
   style="button"
 %}
 {:.center}
