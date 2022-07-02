@@ -1,6 +1,6 @@
 ---
 name: Ashkan Alavnd
-image: images/headshots/andrew-villeneuve.jpg
+image: images/headshots/me.jpg
 description: PhD Student
 role: grad
 group: current
