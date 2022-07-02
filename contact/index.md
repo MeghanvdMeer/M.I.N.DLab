@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Biological Sciences](https://colsa.unh.edu/biological-sciences), at the [University of New Hampshire](https://www.unh.edu/). We are also affiliated with the [School of Marine Science and Ocean Engineering](https://marine.unh.edu/).
-We are located on the basement floor of Spaulding Hall.
+Our lab is part of the [Department of Psychology](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/psychology.html), at the [University of Auckland](https://www.auckland.ac.nz/en.html). We are also affiliated with the [Centre for Brain Research](https://www.auckland.ac.nz/en/fmhs/research/cbr.html).
+We are located on the 3rd floor of the Science Centre.
 
 {%
   include link.html
@@ -43,11 +43,13 @@ We are located on the basement floor of Spaulding Hall.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Department of Biological Sciences  
-University of New Hampshire  
-Spaulding Hall  
-38 Academic Way  
-Durham, NH 03824  
+The M.I.N.D Lab
+Department of Psychology
+Science Centre 301- Bldg 301, 
+23 Symonds St, 
+Auckland Central, 
+Auckland, 1010, 
+New Zealand 
 {:.center}
 
 {%
