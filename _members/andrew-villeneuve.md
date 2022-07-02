@@ -1,6 +1,6 @@
 ---
 name: Ashkan Alavnd
-image: images/headshots/me.jpg
+image: images/headshots/Ash.jpg
 description: PhD Student
 role: grad
 group: current
