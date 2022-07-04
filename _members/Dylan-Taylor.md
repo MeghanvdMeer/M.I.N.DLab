@@ -1,6 +1,6 @@
 ---
 name: Dylan Taylor
-image: images/headshots/Dylan_Taylor.PNG
+image: images/headshots/Dylan_Taylor.png
 description: Graduate student
 role: grad
 group: current
