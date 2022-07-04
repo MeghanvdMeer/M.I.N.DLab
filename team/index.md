@@ -118,7 +118,7 @@ Our work is made possible by funding from several organizations.
   link2="https://www.auckland.ac.nz/en/fmhs/research/cbr.html"
   tooltip2="Centre for Brain Research"
 
-  image3="images/BRNZ.jpg"
+  image3="images/BRNZ.png"
   link3="https://www.brainresearch.co.nz/"
   tooltip3="Brain Research New Zealand"
 
