@@ -1,6 +1,6 @@
 ---
 name: Ian J. Kirk
-image: images/easton_headshot.jpg
+image: images/headshots/Ian_Kirk.jpg
 description: Principal Investigator 
 role: pi
 group: current
