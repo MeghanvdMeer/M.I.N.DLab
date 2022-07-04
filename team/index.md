@@ -122,12 +122,5 @@ Our work is made possible by funding from several organizations.
   link3="https://www.brainresearch.co.nz/"
   tooltip3="Brain Research New Zealand"
 
-  image4=""
-  link4=""
-  tooltip4=""
-  
-  image5=""
-  link5=""
-  tooltip5=""
 
 %}
