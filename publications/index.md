@@ -13,11 +13,8 @@ We publish most of our work in both preprint journals and peer-reviewed journals
 
 # In the pipeline (preprint and/or in review)
 
-Stephen B. Heard, Chloe A. Cull, and Easton R. White. If this title is funny, will you cite me? Citation impacts of humour and other features of article titles in ecology and evolution [bioRxiv preprints](https://www.biorxiv.org/content/10.1101/2022.03.18.484880v1). In review.
+Alvand, A., Kuruvilla-Mathew, A., Kirk, I. J., Roberts, R. P., Pedersen, M., & Purdy, S. C. (2022). Altered brain network topology in children with Auditory Processing Disorder: a resting-state multi-echo fMRI study [medRxiv](https://www.medrxiv.org/content/10.1101/2022.04.05.22273478v2). In revision.
 
-Merrill Baker-Medard, Katherine Concannon, Courtney Gantt, Sierra Moen, Easton R. White. Socialscape Ecology: Integrating social factors into spatially-explicit marine conservation planning. In review. [Preprint](https://osf.io/preprints/socarxiv/m2kqa)
-
-Benjamin M. Althouse, Brendan Wallace, Brendan Case, Samuel V. Scarpino, Andrew M. Berdahl, Easton R. White, and Laurent Hebert-Dufresne. The unintended consequences of inconsistent pandemic control policies. [medRxiv preprints](https://www.medrxiv.org/content/10.1101/2020.08.21.20179473v2). In revision.
 
 
 {% include search-box.html %}
