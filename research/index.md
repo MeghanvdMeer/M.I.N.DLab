@@ -8,7 +8,7 @@ nav:
 
 {%
   include feature.html
-  image="images/research_venn.png"
+  image="images/Neurons.png"
 %}
 
 Our research interests are varied and aim to address some of the below areas of interest. As our brains change throughout our life and are impacted by everything thing we do we are looking at targeted areas of the brain to further understand what impacts us and how to enhance our cognition as we go through these ages and stages. Our current research projects aim to address some of the below questions: 
