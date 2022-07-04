@@ -115,7 +115,7 @@ Our work is made possible by funding from several organizations.
 
   image1="images/Marsden-logo-rgb-96dpi.png"
   link1="https://www.royalsociety.org.nz"
-  tooltip1="Marsden Funding"
+  tooltip1="Marsden Fund"
 
   image2="images/Centre_For_Brain_research.png"
   link2="https://www.auckland.ac.nz/en/fmhs/research/cbr.html"
