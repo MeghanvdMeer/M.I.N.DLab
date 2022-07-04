@@ -45,16 +45,16 @@ Here are just a few images from our cameras so far. More photos, and also videos
   image2="images/EEG.png"
   tooltip2="EEG Cap"
   
-    image3="images/Lego_MRI.png"
+  image3="images/Lego_MRI.png"
   tooltip3="Ash's Lego MRI"
   
-    image4="images/Ash_Images_PhD.jpg"
+  image4="images/Ash_Images_PhD.jpg"
   tooltip4="Ash's Images PhD"
   
-      image5="images/P_300.png"
+  image5="images/P_300.png"
   tooltip5="P_300"
   
-      image6="images/MRI.png"
+  image6="images/MRI.png"
   tooltip6="MRI Scan"
  
 
