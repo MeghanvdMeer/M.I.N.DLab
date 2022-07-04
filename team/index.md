@@ -110,24 +110,24 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/NSF_Logo.png"
-  link1="https://www.nsf.gov/"
-  tooltip1="National Science Foundation"
+  image1="images/Marsden.png"
+  link1="https://www.royalsociety.org.nz"
+  tooltip1="Marsden Funding"
 
-  image2="images/Gund_logo.png"
-  link2="https://www.uvm.edu/gund"
-  tooltip2="Gund Institute"
+  image2="images/Centre_For_Brain_research.png"
+  link2="https://www.auckland.ac.nz/en/fmhs/research/cbr.html"
+  tooltip2="Centre for Brain Research"
 
-  image3="images/fulbright-logo.jpg"
-  link3="https://cies.org/"
-  tooltip3="Fulbright Program"
+  image3="images/BRNZ.jpg"
+  link3="https://www.brainresearch.co.nz/"
+  tooltip3="Brain Research New Zealand"
 
-  image4="images/cdf_logo.jpg"
-  link4="https://darwinfoundation.org/en//"
-  tooltip4="Charles Darwin Foundation"
+  image4=""
+  link4=""
+  tooltip4=""
   
-  image5="images/unh_logo.png"
-  link5="https://www.unh.edu/"
-  tooltip5="University of New Hampshire"
+  image5=""
+  link5=""
+  tooltip5=""
 
 %}
