@@ -1,6 +1,6 @@
 ---
 name: Jodie Bell
-image: images/KP_Headshot.jpg
+image: images/headshots/Jodie_bell.png
 description: PhD Student
 role: grad
 group: current
