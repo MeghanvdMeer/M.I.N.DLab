@@ -5,7 +5,7 @@ title: Home
 # research into neural networks underlying memory and learning
 
 
-The M.I.N.D Lab at the [University of Auckland](https://www.auckland.ac.nz/en.html) is a team of scientists combining experiments with mathematical and statistical tools to address the most pressing issues in the oceans. We address questions related to ageing populations as well as children, effects of caffeine on the brain, and network connectivity in several states. A common thread throughout our work is the role of neural variability. We are currently conducting research into The Neural Dynamics of Cognitive Control: Theta-range Neural Oscillations and Frontal Executive Function.
+The M.I.N.D Lab at the [University of Auckland](https://www.auckland.ac.nz/en.html) is a team of scientists combining experiments with mathematical and statistical tools to address the neuronal changes our brains go through on a regular basis. We address questions related to ageing populations as well as children, effects of caffeine on the brain, and network connectivity in several states. A common thread throughout our work is the role of neural variability. We are currently conducting research into The Neural Dynamics of Cognitive Control: Theta-range Neural Oscillations and Frontal Executive Function.
 
 {%
   include figure.html
