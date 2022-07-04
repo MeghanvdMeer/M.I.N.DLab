@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Quantitative tools to address ocean challenges
+# research into neural networks underlying memory and learning
 
 
-The Quantitative Marine Ecology lab at the [University of New Hampshire](https://colsa.unh.edu/biological-sciences) is a team of scientists combining field observations with mathematical and statistical tools to address the most pressing issues in the oceans. We address questions related to population ecology, socio-ecological systems, species monitoring, fisheries, and sustainable seafood. A common thread throughout our work is the role of environmental variability, particularly rare events like heatwaves or global pandemics. We currently conduct research in Madagascar, the Eastern Tropical Pacific, and New Hampshire.
+The M.I.N.D Lab at the [University of Auckland](https://www.auckland.ac.nz/en.html) is a team of scientists combining experiments with mathematical and statistical tools to address the most pressing issues in the oceans. We address questions related to ageing populations as well as children, effects of caffeine on the brain, and network connectivity in several states. A common thread throughout our work is the role of neural variability. We are currently conducting research into The Neural Dynamics of Cognitive Control: Theta-range Neural Oscillations and Frontal Executive Function.
 
 {%
   include figure.html
@@ -36,7 +36,7 @@ We strive to make our work accessible and freely available to other scientists, 
 
 
 {% capture text %}
-We are a team of scientists that address both basic and applied questions in marine systems. We strive to build an inclusive environment in order to foster a more diverse, equitable, and productive scientific workforce. 
+We are a team of scientists that address both basic and applied questions in neuroscience and Psychology. We strive to build an inclusive environment in order to foster a more diverse, equitable, and productive scientific workforce. 
 
 [Meet our team &nbsp;→](team)
 {:.center}
