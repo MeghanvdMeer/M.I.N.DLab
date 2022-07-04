@@ -22,7 +22,7 @@ The lab often has openings for undergraduate and graduate students at UoA to con
 
 The lab often has openings for PhD students. I am also open to collaboratively working on proposals to help fund independent PhD positions through several different programs.
 
-Further information for doctoral candidates can be found [here] (https://www.auckland.ac.nz/en/students/academic-information/postgraduate-students/doctoral.html). 
+Further information for doctoral candidates can be found [here](https://www.auckland.ac.nz/en/students/academic-information/postgraduate-students/doctoral.html). 
 
 
 If you are interested, please send an email and CV to Ian Kirk (<i.kirk@auckland.ac.nz>). 
