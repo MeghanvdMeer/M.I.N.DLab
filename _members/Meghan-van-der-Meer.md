@@ -1,6 +1,6 @@
 ---
 name: Meghan van der Meer
-image: images/julia-saltzman.jpg
+image: images/headshots/Meg.jpg
 description: PhD Student
 role: grad
 group: current
