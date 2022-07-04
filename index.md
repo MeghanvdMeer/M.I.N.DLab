@@ -9,7 +9,7 @@ The M.I.N.D Lab at the [University of Auckland](https://www.auckland.ac.nz/en.ht
 
 {%
   include figure.html
-  image="images/lab_logo_bw.png"
+  image="images/UoA_Alt_logo.png"
   width="65%"
 %}
 
@@ -28,7 +28,7 @@ We strive to make our work accessible and freely available to other scientists, 
 
 {%
   include feature.html
-  image="images/research_venn.png"
+  image="images/Brain_Unplugged.png"
   link="publications"
   headline="Our Research"
   text=text
@@ -44,7 +44,7 @@ We are a team of scientists that address both basic and applied questions in neu
 
 {%
   include feature.html
-  image="images/team_stock.jpg"
+  image="images/Olav_Talk.png"
   link="team"
   headline="Our Team"
   text=text
