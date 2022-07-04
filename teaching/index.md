@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Past students
 nav:
   order: 3
   tooltip: Courses
@@ -8,25 +8,29 @@ nav:
 # <i class="fas teaching"></i>Teaching
 
 
+Over the years we have had many wonderful students come and go. Below are some of our past students and what they are doing now. Many have gone on to successful careers in academia and continue to contribute greatly to the scientific community.
 
-I (Easton White) view teaching as a highly scientific enterprise. I read literature on pedagogy and form hypotheses about teaching, conduct experiments in the classroom to test these hypotheses, examine the results, and adjust my teaching approach accordingly. In my teaching, I use a mix of active learning techniques (e.g. flipped classes, think-pair-share, Jigsaws) in line with evidence-based pedagogy. I believe it is important for students to work on important, real-life case studies throughout the curriculum. In each of my courses, I teach more than only the specific course content. I also teach transferable skills, connections to other disciplines, and the interaction between science and culture, especially related to systemic racism and sexism. 
 
 {% include section.html %}
 
 I currently teach two courses at UNH (materials and website are in the works!):
 
-## Data Science with R for the Life Sciences (BIOL 706/806)
+## Margaret (Meg) Spriggs
+But during her psychology undergraduate at the University of Otago everything changed. Meg was introduced to EEG (electroencephalography) and fMRI (functional magnetic resonance imaging). After finishing her BA at Otago, Meg joined Prof Ian Kirk’s lab at the University of Auckland for a couple of summer placements and her Honours degree. For her PhD project, Meg looked at electrophysiological markers of neural plasticity (the brain’s ability to adapt) that differentiate healthy ageing from mild cognitive impairment (a condition that causes cognitive changes and increases the risk of developing dementia). While she is excited to follow the progress of the DPRC, for now her own path has taken her elsewhere. Meg currently works as a postdoc in the Centre for Psychedelic Research at Imperial College London. She is investigating psilocybin, the active ingredient in magic mushrooms, and how it can be used in the treatment of mental health. Meg is leading a new trial looking at psilocybin assisted therapy for anorexia nervosa. She is also assisting with another trial looking at the psychological and brain effects of psilocybin in healthy volunteers. She is particularly excited about the opportunity this field offers for a new approach to mental health treatment. 
 
-- Taught every Fall semester
-- This course tends to fill up very quickly. Please reach out to Easton if you are interested.
-- [Course catalog entry](https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=)
-- [Course website](https://quantmarineecolab.github.io/BIOL806/)
-- [Course materials (login required)](https://mycourses.unh.edu/courses/88910)
+## Nicole McKay
+## Ozge Karakale
+## Steven Wolfson
 
-## Introductory Biology: Evolution, Biodiversity, and Ecology (BIOL 412) 
 
-Taught every Fall semester
+**Undergraduate and Graduate Students**
+Daniel Yeom, Shaun Oliver, Diya Suresh, Abby Exton, Jeffrey Kim, Amogh Ranade, Hayat Kheir, Haneyn Musa, and Milly Darragh.
 
+**Summer scholars and visiting students **
+
+**We have had several summer scholars and international visiting students. **
+
+Inga Dzionsko, Nikki Dreijer, and Morgan Lloyd. 
 
 {% include section.html %}
 
