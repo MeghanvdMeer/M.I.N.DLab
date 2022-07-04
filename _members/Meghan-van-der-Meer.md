@@ -1,6 +1,6 @@
 ---
 name: Meghan van der Meer
-image: images/headshots/Meg.jpg
+image: images/headshots/Meg.JPG
 description: PhD Student
 role: grad
 group: current
