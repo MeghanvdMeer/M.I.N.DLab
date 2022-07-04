@@ -54,8 +54,8 @@ New Zealand
 
 {%
   include figure.html
-  image="images/lab_logo_bw.png"
+  image="images/UoA_Logo.png"
   width="75%"
 %}
-Lab logos and were designed by [Julia Saltzman](https://quantmarineecolab.github.io/members/julia-saltzman.html).
+
 
