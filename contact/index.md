@@ -43,8 +43,8 @@ We are located on the 3rd floor of the Science Centre.
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-The M.I.N.D Lab
-Department of Psychology
+The M.I.N.D Lab,
+Department of Psychology,
 Science Centre 301- Bldg 301, 
 23 Symonds St, 
 Auckland Central, 
