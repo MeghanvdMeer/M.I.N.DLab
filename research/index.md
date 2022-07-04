@@ -39,23 +39,23 @@ Here are just a few images from our cameras so far. More photos, and also videos
 {%
   include gallery.html
 
-  image1="images/blog_post_images/2022summer/bruvbuild.jpg"
-  tooltip1="Building the underwater cameras"
+  image1="images/Rohan_Pre_Submission_Drinks.jpg"
+  tooltip1="Rohan Pre_Submission drinks"
 
-  image2="images/field_work/seal.jpeg"
-  tooltip2="A curious seal"
+  image2="images/EEG.png"
+  tooltip2="EEG Cap"
   
-    image3="images/field_work/fish.jpeg"
-  tooltip3="A lone fish"
+    image3="images/Lego_MRI.png"
+  tooltip3="Ash's Lego MRI"
   
-    image4="images/blog_post_images/2022summer/melanieboat.jpg"
-  tooltip4="Melanie at Shoals"
+    image4="images/Ash_Images_PhD.jpg"
+  tooltip4="Ash's Images PhD"
   
-      image5="images/field_work/fish_school.jpeg"
-  tooltip5="School of fish"
+      image5="images/P_300.png"
+  tooltip5="P_300"
   
-      image6="images/field_work/lobster.jpeg"
-  tooltip6="Lobster on left side of image"
+      image6="images/MRI.png"
+  tooltip6="MRI Scan"
  
 
 
