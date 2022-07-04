@@ -56,10 +56,11 @@ There are often openings for graduate students and PhD students within the M.I.N
 %}
 {:.center}
 
+<!--
 ![First team photo](/images/blog_post_images/2021_retreat1.jpg "2021 team photo")
 
 {% include section.html %}
-
+-->
 
 
 # Alumni
