@@ -1,7 +1,7 @@
 ---
 name: Hayat Kheir
 image: images/Jasper.jpeg
-description: undergrad 
+description: undergraduate student 
 role: undergrad
 group: current
 aliases:
