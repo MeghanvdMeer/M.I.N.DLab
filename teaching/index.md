@@ -1,5 +1,5 @@
 ---
-title: Past students
+title: Teaching
 nav:
   order: 3
   tooltip: Courses
