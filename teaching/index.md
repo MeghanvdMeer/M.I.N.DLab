@@ -31,5 +31,5 @@ MRI studies are run at CAMRI (Centre for advanced MRI) at The University of Auck
 
 {%
   include feature.html
-  image="images/easton_teaching.png"
+  image="images/mri-scanner.jpg"
 %}
