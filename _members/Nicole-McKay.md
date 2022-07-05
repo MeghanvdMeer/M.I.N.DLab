@@ -1,12 +1,12 @@
 ---
-name: Jill Levine
+name: Nicole McKay
 image: images/jill_levine.jpg
-description: Undergraduate researcher
-role: undergrad
+description: PhD researcher
+role: grad
 group: alumni
 aliases:
-  - J. Levine
-  - Jill Levine
+  - N. McKay
+  
 links:
   email: Jill.S.Levine@uvm.edu
 ---
