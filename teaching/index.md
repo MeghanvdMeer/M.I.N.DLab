@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Equipment
 nav:
   order: 3
   tooltip: Courses
@@ -7,30 +7,25 @@ nav:
 
 # <i class="fas teaching"></i>Teaching
 
-
-Over the years we have had many wonderful students come and go. Below are some of our past students and what they are doing now. Many have gone on to successful careers in academia and continue to contribute greatly to the scientific community.
+As a lab we are continually updating our skills and training in a variety of neuro-imaging techniques. Below are some that we currently use or are currently training to use in the future. 
 
 
 {% include section.html %}
 
-I currently teach two courses at UNH (materials and website are in the works!):
 
-## Margaret (Meg) Spriggs
-But during her psychology undergraduate at the University of Otago everything changed. Meg was introduced to EEG (electroencephalography) and fMRI (functional magnetic resonance imaging). After finishing her BA at Otago, Meg joined Prof Ian Kirk’s lab at the University of Auckland for a couple of summer placements and her Honours degree. For her PhD project, Meg looked at electrophysiological markers of neural plasticity (the brain’s ability to adapt) that differentiate healthy ageing from mild cognitive impairment (a condition that causes cognitive changes and increases the risk of developing dementia). While she is excited to follow the progress of the DPRC, for now her own path has taken her elsewhere. Meg currently works as a postdoc in the Centre for Psychedelic Research at Imperial College London. She is investigating psilocybin, the active ingredient in magic mushrooms, and how it can be used in the treatment of mental health. Meg is leading a new trial looking at psilocybin assisted therapy for anorexia nervosa. She is also assisting with another trial looking at the psychological and brain effects of psilocybin in healthy volunteers. She is particularly excited about the opportunity this field offers for a new approach to mental health treatment. 
+## Systems we currently use
+We employ a variety of neurological imaging techniques such as Brain Products ActiCap Slim EEG 64 channel, EGI EEG system, MRI and fMRI. We hope to further our research into M.E.G (Magnetoencephalography) and TMS (transcranial magnetic stimulation) techniques.
 
-## Nicole McKay
-## Ozge Karakale
-## Steven Wolfson
+## EGI EEG System: 
+EGI EEG system is a net-based system pictured below. It uses HydroCel electrodes on a geodesic sensor net. We currently have the 128 channel net for heads sized for infants (42-43cm, 44-47cm, 47-51cm) and adults (55-58cm). More information can be found here. 
+
+## Brain Products EEG System:
+Brain Products EEG acticap is a cap based system pictured below right. It uses active electrodes. We currently have 64 channels net for adults (55-62cm). More information on brain products can be found here. 
+
+## MRI Scanner: 
+MRI studies are run at CAMRI (Centre for advanced MRI) at The University of Auckland. CAMRI uses the 3T Siemens Skyra. The Skyra is the first 3T Tim (Total Imaging Matrix) + DOT system (Day Optimising Throughput). More can be found here. 
 
 
-**Undergraduate and Graduate Students**
-Daniel Yeom, Shaun Oliver, Diya Suresh, Abby Exton, Jeffrey Kim, Amogh Ranade, Hayat Kheir, Haneyn Musa, and Milly Darragh.
-
-**Summer scholars and visiting students **
-
-**We have had several summer scholars and international visiting students. **
-
-Inga Dzionsko, Nikki Dreijer, and Morgan Lloyd. 
 
 {% include section.html %}
 
