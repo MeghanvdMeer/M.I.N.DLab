@@ -2,7 +2,7 @@
 name: Rohan King
 image: images/headshots/Rohan_King.png
 description: PhD graduate
-role: grad
+role: postdoc
 group: current
 aliases:
   - R. King
