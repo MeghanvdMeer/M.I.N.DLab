@@ -1,6 +1,6 @@
 ---
 name: Jeffrey Kim 
-image: images/member.jpg
+image: images/Jasper.jpeg
 description: Master's student
 role: undergrad
 group: current
