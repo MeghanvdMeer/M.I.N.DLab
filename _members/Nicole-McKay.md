@@ -1,6 +1,6 @@
 ---
 name: Nicole McKay
-image: images/jill_levine.jpg
+image: images/headshots/Nicole_McKay.png
 description: PhD researcher
 role: grad
 group: alumni
