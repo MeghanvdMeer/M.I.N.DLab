@@ -55,7 +55,7 @@ New Zealand
 {%
   include figure.html
   image="images/uoa1.jpg"
-  width="50%"
+  width="75%"
 %}
 
 
