@@ -1,12 +1,11 @@
 ---
-name: Anne Chovie
+name: Jeffrey Kim 
 image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-group: alum
+description: Masters Student
+role: grad
+group: current
 aliases:
-  - A. Chovie
-  - A Chovie
+  - J. Kim
 links:
   home-page: annechovie.com
   email: anne@chovie.com
