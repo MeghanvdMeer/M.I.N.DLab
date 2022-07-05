@@ -1,6 +1,6 @@
 ---
 name: Ozge Karakale
-image: images/rose-pfeiffer.jpg
+image: images/headshots/ozge.jpg
 description: PhD graduate
 role: grad
 group: alumni
@@ -8,8 +8,10 @@ aliases:
   - O. Karakale
   
 links:
-  email: Rose.Pfeiffer@uvm.edu 
-  twitter: rppfeiffer
+  email: karakaleatmetu.edu.tr
+   home-page: https://ncc.metu.edu.tr/getprofile/karakale
+  
 ---
 
-Rose Pfeiffer completed an undergraduate thesis at the University of Vermont. She studied how COVID-19 is affecting US fisheries. 
+Ozge completed her PhD...
+
