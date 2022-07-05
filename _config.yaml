@@ -23,7 +23,7 @@ nav:
 
 
 # base directory where site is hosted
-logo: 
+logo: /images/Brain.png
 header: /images/Footer.png
 footer: /images/Footer.png
 baseurl: /
