@@ -9,6 +9,11 @@ aliases:
 links:
   email: mvan754@aucklanduni.ac.nz
   github: https://github.com/MeghanvdMeer 
+  home-page:
+  linkedin:
+  twitter: 
+  orcid:
+  
 ---
 
 Meghan is a PhD candidate in the School of Psychology at the University of Auckland, New Zealand. She previously completed an MSc in Psychology in [Trinity College Dublin](https://www.tcd.ie/), Ireland. During her Master’s programme she investigated extreme stress and false memory recall in the general population. This research was linked to why torture does not work by [Prof Shane O’Mara](https://www.tcd.ie/research/profiles/?profile=smomara) and [Prof Aine Kelly](https://www.tcd.ie/research/profiles/?profile=aikelly). 
