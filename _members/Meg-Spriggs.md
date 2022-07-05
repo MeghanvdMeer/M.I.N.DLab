@@ -1,12 +1,11 @@
 ---
 name: Margaret (Meg) Spriggs
 image: images/headshots/isabel-beaulieu.jpeg
-description: PhD student
-role: Grad
+description: PhD graduate
+role: grad
 group: alumni
 aliases:
   - Meg Spriggs
-  - M. Spriggs
 links:
   email: isabel.beaulieu@unh.edu
 ---
