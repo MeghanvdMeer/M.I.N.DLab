@@ -3,7 +3,7 @@ name: STEPHEN S. WOLFSON
 image: images/headshots/steve.jpg
 role: grad
 group: alumni
-description: Graduate student
+description: PhD graduate
 aliases:
   - S. Wolfson
 links:
