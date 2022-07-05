@@ -11,6 +11,10 @@ links:
   twitter: 
   email: 
   home-page: https://neurocogsystem.com/dr-stephen-wolfson-clinical-psychologist/
+  github: 
+  linkedin:
+  twitter: 
+  orcid:
   
 ---
 
