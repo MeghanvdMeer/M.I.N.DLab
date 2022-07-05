@@ -1,6 +1,6 @@
 ---
 name: Rohan King
-image: images/wilton_burns_headshot.jpg
+image: images/headshots/Rohan_King.png
 description: PhD graduate
 role: grad
 group: current
