@@ -9,6 +9,10 @@ aliases:
 links:
   email: karakaleatmetu.edu.tr
   home-page: https://ncc.metu.edu.tr/getprofile/karakale
+  github: 
+  linkedin:
+  twitter: 
+  orcid:
   
 ---
 
