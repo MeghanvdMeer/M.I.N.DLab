@@ -1,6 +1,6 @@
 ---
 name: Haneyn Musa
-image: images/katherine-paganrivera.JPG
+image: images/Jasper.jpeg
 role: undergrad
 group: current
 description: Undergraduate researcher
