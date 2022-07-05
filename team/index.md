@@ -111,7 +111,7 @@ Our work is made possible by funding from several organizations.
 
 {%
   include gallery.html
-  style="square"
+  style="rectangle"
 
   image1="images/Marsden-logo-rgb-96dpi.png"
   link1="https://www.royalsociety.org.nz"
