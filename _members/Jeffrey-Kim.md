@@ -1,17 +1,17 @@
 ---
 name: Jeffrey Kim 
 image: images/member.jpg
-description: Masters Student
-role: grad
+description: Master's student
+role: undergrad
 group: current
 aliases:
   - J. Kim
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  
+  home-page: 
+  email: 
+  github: 
+  
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+Jeff is
