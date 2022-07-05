@@ -2,15 +2,15 @@
 name: Felix Cited
 image: images/member.jpg
 description: Treat Researcher
-role: phd
-group: alum
+role: 
+group: 
 aliases:
   - F. Cited
   - F Cited
 links:
-  home-page: felixcited.com
-  email: felix@cited.com
-  twitter: felixcited
+  home-page: 
+  email: 
+  twitter: 
 ---
 
 Felix is a good dog.
