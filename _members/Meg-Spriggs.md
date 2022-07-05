@@ -2,7 +2,7 @@
 name: Margaret (Meg) Spriggs
 image: images/headshots/isabel-beaulieu.jpeg
 description: PhD student
-role: Graduate
+role: Grad
 group: alumni
 aliases:
   - Meg Spriggs
