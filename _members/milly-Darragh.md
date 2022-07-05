@@ -1,6 +1,6 @@
 ---
 name: Milly Darragh
-image: images/melanie-carolan.jpg
+image: images/Jasper.jpeg
 role: undergrad
 group: current
 description: Undergraduate researcher
