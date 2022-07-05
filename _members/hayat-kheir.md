@@ -1,6 +1,6 @@
 ---
 name: Hayat Kheir
-image: images/headshots/Ash.jpg
+image: images/Jasper.jpeg
 description: undergrad 
 role: undergrad
 group: current
