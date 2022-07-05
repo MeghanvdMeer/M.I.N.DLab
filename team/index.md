@@ -21,6 +21,12 @@ We employ functional and structural imaging, such as electroencephalography (EEG
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc, group: current"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: grad, group: current"
 %}
 {%
