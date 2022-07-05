@@ -6,8 +6,14 @@ group: current
 description: Undergraduate researcher
 aliases: 
   - M. Darragh
-  
-email: mdar240@aucklanduni.ac.nz
+links: 
+
+  email: mdar240@aucklanduni.ac.nz
+  home-page:
+  github: 
+  linkedin:
+  twitter: 
+  orcid:
 
 ---
 
