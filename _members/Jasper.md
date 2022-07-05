@@ -1,7 +1,7 @@
 ---
 name: Jasper
 image: images/Jasper.jpeg
-role: mascot
+role: 
 description: DOGtor of Philosophy Candidate
 group: current
 aliases:
