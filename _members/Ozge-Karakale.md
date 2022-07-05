@@ -1,12 +1,12 @@
 ---
-name: Rose Pfeiffer
+name: Ozge Karakale
 image: images/rose-pfeiffer.jpg
-description: Undergraduate researcher
-role: undergrad
+description: PhD graduate
+role: grad
 group: alumni
 aliases:
-  - R. Pfeiffer
-  - Rose Pfeiffer
+  - O. Karakale
+  
 links:
   email: Rose.Pfeiffer@uvm.edu 
   twitter: rppfeiffer
