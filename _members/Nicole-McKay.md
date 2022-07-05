@@ -9,6 +9,10 @@ aliases:
 links:
   email: 
   twitter: nicolesmckay
+  home-page:
+  github: 
+  linkedin:
+  orcid:
   
 ---
 
