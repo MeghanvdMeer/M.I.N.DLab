@@ -2,16 +2,17 @@
 name: Upton O. Goode
 image: images/member.jpg
 description: Bone Investigator
-role: pi
-group: alum
+role:
+group: 
 aliases:
   - U. Goode
-  - U. O. Goode
-  - U Goode
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  email:
+  home-page:
+  github: 
+  linkedin:
+  twitter: 
+  orcid:
 ---
 
 Upton is a good dog.
