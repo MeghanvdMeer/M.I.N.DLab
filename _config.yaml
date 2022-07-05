@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: M.I.N.D Lab
 description: Memory, Imaging, Networks and Dynamics Lab
-header: images/background.png
+header: images/Header.jpg
 footer: images/background.png
 
 # site nav bar
@@ -24,7 +24,7 @@ nav:
 
 # base directory where site is hosted
 logo: 
-header: images/background.png
+header: images/Header.jpg
 footer: images/background.png
 baseurl: /
 
