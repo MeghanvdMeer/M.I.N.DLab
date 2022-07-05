@@ -1,6 +1,6 @@
 ---
 name: Margaret (Meg) Spriggs
-image: images/headshots/isabel-beaulieu.jpeg
+image: images/headshots/Meg_Spriggs.png
 description: PhD graduate
 role: grad
 group: alumni
