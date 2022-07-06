@@ -19,9 +19,10 @@ Below is an image from Rohan's PhD thesis. It illsutares memory recall-related p
   image1="/images/blog_post_images/Rohan_Image.png"
   tooltip1="Time_frequency Power"
 
+<!--
   image2="images/blog_post_images/2021_chili_cookoff_group.jpg"
   tooltip2="Department enjoying some food and conversation"
- 
+ -->
 
 
 %}
