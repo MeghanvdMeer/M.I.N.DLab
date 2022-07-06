@@ -1,13 +1,13 @@
 ---
-title: BRNZ Conference Queenstown
+title: Dylan Taylor Submission
 tags: 
-  - Brain Research New Zealand
-  - Conference
+  - Thesis 
+  - Lab News
 author: Meghan van der Meer
 member: Meghan-van-der-meer
 ---
 
-In April 2021 several lab memebers travelled to Queenstown, new Zealand for the final BRNZ conference.  
+In June 2022, we celebrated the Master's thesis submission of Dylan Taylor. Dylan looked at functional network connectivity in Alzheimer's Disease. We would like to congratulate Dylan on all his hard work and we will him everything of the best for his future endevors.
 
 ![Unloading from the Kingsbury onto Appledore Island](/images/blog_post_images/2021_coastwise_shoals1.jpg "Unloading from the Kingsbury onto Appledore Island")
 
