@@ -13,7 +13,7 @@ In June 2022, we celebrated the Master's thesis submission of Dylan Taylor. Dyla
 
 
 
-
+<!--
 
 {%
   include gallery.html
@@ -32,3 +32,4 @@ In June 2022, we celebrated the Master's thesis submission of Dylan Taylor. Dyla
 
 
 %}
+-->
