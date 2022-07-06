@@ -3,7 +3,7 @@
     "short_name": "",
     "icons": [
         {
-            "src": "images/Brain.png",
+            "src": "favicons/Brain.png",
             "sizes": "512x512",
             "type": "image/png"
         }
