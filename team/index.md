@@ -109,6 +109,16 @@ There are often openings for graduate students and PhD students within the M.I.N
 
 {% include section.html %}
 
+# Visiting students
+
+1. Inga Dzionsko
+2. Niki drejer
+3. Diya Suresh
+4. Abby Exton
+5. Shaun Oliver
+6. Morgan Lloyd. 
+
+
 
 ## Funding
 
