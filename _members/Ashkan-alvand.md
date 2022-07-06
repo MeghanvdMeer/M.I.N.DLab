@@ -17,6 +17,6 @@ links:
   
 ---
 
-I am a Ph.D. candidate at the School of Psychology, University of Auckland, New Zealand. Previously, I completed my bachelor's in Information Technology through the University of Mazandaran (2014) and then received my master's degree in Computer Networking at Azad University (2016) in Iran. During my master's program, I became familiar with graph theory in biological systems and developed a strong interest in this approach. My passion for understanding brain networks and their behaviour led me to continue my studies in network neuroscience.
+Ashkan is a Ph.D. candidate at the School of Psychology, University of Auckland, New Zealand. Previously, he completed a bachelor's in Information Technology through the University of Mazandaran (2014) and then received his Master's degree in Computer Networking at Azad University (2016) in Iran. During his Master's program, he became familiar with graph theory in biological systems and developed a strong interest in this approach. His passion for understanding brain networks and their behaviour led him to continue his studies in network neuroscience.
 
-My doctoral research focuses on studying brain functional and structural organization of children with Auditory Processing Disorder using resting-state functional MRI and diffusion MRI techniques.
+Ashkan's doctoral research focuses on studying brain functional and structural organization of children with Auditory Processing Disorder using resting-state functional MRI and diffusion MRI techniques.
