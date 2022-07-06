@@ -11,14 +11,13 @@ In February 2022 we celebrated the submission of one of our PhD Candidates, Roha
 
 Below is an image from Rohan's PhD thesis. It illsutares memory recall-related parietal power difference of acute 𝑗𝑢𝑖𝑐𝑒 − acute placebo (with time in ms, frequency in Hz at 0.3-0.7 Hz resolution, and power difference in dB coloured according to the colour bar)
 
-![Time-Frequency Power ](/images/blog_post_images/Rohan_Image.png "Analysis!")
 
 
 {%
   include gallery.html
 
-  image1="images/blog_post_images/2021_chili_cookoff_contest.jpg"
-  tooltip1="Very serious set of chili entries"
+  image1="/images/blog_post_images/Rohan_Image.png"
+  tooltip1="Time_frequency Power"
 
   image2="images/blog_post_images/2021_chili_cookoff_group.jpg"
   tooltip2="Department enjoying some food and conversation"
