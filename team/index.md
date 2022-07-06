@@ -119,6 +119,8 @@ There are often openings for graduate students and PhD students within the M.I.N
 6. Morgan Lloyd. 
 
 
+{% include section.html %}
+
 
 ## Funding
 
