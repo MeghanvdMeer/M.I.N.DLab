@@ -11,7 +11,7 @@ We publish most of our work in both preprint journals and peer-reviewed journals
 
 {% include section.html %}
 
-# In the pipeline (preprint and/or in review)
+# preprint articles
 
 Alvand, A., Kuruvilla-Mathew, A., Kirk, I. J., Roberts, R. P., Pedersen, M., & Purdy, S. C. (2022). Altered brain network topology in children with Auditory Processing Disorder: a resting-state multi-echo fMRI study [medRxiv](https://www.medrxiv.org/content/10.1101/2022.04.05.22273478v2). In revision.
 
@@ -22,6 +22,6 @@ Alvand, A., Kuruvilla-Mathew, A., Kirk, I. J., Roberts, R. P., Pedersen, M., & P
 {% include search-info.html %}
 
 
-# Published
+# Published articles
 
 {% include list.html data="citations" component="citation" style="rich" %}
