@@ -9,7 +9,7 @@ The M.I.N.D Lab at the [University of Auckland](https://www.auckland.ac.nz/en.ht
 
 {%
   include figure.html
-  image="images/UoA_Alt_logo.png"
+  image="images/Lab_Christman.png"
   width="50%"
 %}
 
