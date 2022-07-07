@@ -7,7 +7,7 @@ group: current
 aliases:
   - A. Alvand
 links:
-  email: a.alvand@auckland.ac.nz
+  email: 
   home-page: http://ashkan-alvand.com
   github: m31glx
   linkedin: https://www.linkedin.com/in/ashkan-alvand/
