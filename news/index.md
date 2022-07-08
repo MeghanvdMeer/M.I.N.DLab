@@ -15,6 +15,7 @@ nav:
 
 {% include section.html %}
 
+<!--
 ## News
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
@@ -27,3 +28,4 @@ nav:
 {:.center}
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+-->
