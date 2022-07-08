@@ -2,7 +2,7 @@
 name: Diya Suresh
 image: images/Jasper.jpeg
 description: Undergraduate Researcher
-role: grad
+role: undergrad
 group: alumni
 aliases:
   - Diya Suresh
