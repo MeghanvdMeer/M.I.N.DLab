@@ -1,6 +1,6 @@
 ---
 name: Diya Suresh
-image: images/headshots/Meg_Spriggs.png
+image: images/Jasper.jpeg
 description: Undergraduate Researcher
 role: grad
 group: alumni
