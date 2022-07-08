@@ -16,4 +16,4 @@ links:
   
 ---
 
-Shaun completed his undergraduate degree in the M.I.N.D Lab. He focused on music and EEG. We wish Shaun all the best in his future endeavours.
+Shaun completed his undergraduate degree in the M.I.N.D Lab. He looked at the effects of emotional processing and music using EEG. 
