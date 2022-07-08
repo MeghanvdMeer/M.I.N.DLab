@@ -2,7 +2,7 @@
 name: Sancharya Pahwa
 image: images/Jasper.jpeg
 description: Undergraduate Researcher
-role: grad
+role: undergrad
 group: alumni
 aliases:
   - S. Pahwa
