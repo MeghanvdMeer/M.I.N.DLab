@@ -16,4 +16,4 @@ links:
   
 ---
 
-Abby completed her undergraduate degree in the M.I.N.D Lab. She focused on fMRI and Alzheimer's Disease. 
+Abby completed her undergraduate degree in the M.I.N.D Lab. Her research project looked at diffusion (DWI) differences in the fornix and cingulum white matter tracts and what this means for behaviour in people with Mild Cognitive Impairment.
