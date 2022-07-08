@@ -111,12 +111,9 @@ There are often openings for graduate students and PhD students within the M.I.N
 
 # Visiting students
 
-1. Inga Dzionsko
-2. Niki drejer
-3. Diya Suresh
-4. Abby Exton
-5. Shaun Oliver
-6. Morgan Lloyd. 
+1. Inga Dzionsko (Germany)
+2. Nikki dreijer (Netherlands)
+3. Morgan Lloyd (Summer Scholar from New Zealand)
 
 
 {% include section.html %}
