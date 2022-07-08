@@ -2,7 +2,7 @@
 name: Shaun Oliver
 image: images/Jasper.jpeg
 description: Undergraduate Researcher
-role: grad
+role: undergrad
 group: alumni
 aliases:
   - S. Oliver
