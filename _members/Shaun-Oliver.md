@@ -1,0 +1,19 @@
+---
+name: Shaun Oliver
+image: images/Jasper.jpeg
+description: Undergraduate Researcher
+role: grad
+group: alumni
+aliases:
+  - S. Oliver
+links:
+  email:
+  home-page:
+  github: 
+  linkedin:
+  twitter: 
+  orcid:
+  
+---
+
+Shaun completed his undergraduate degree in the M.I.N.D Lab. He focused on music and EEG.
