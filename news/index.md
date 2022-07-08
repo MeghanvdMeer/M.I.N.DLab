@@ -27,5 +27,8 @@ nav:
 <a href="https://twitter.com/intent/tweet?screen_name=eastonrwhite&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @eastonrwhite</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 -->
+
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
