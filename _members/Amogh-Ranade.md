@@ -2,7 +2,7 @@
 name: Amogh Ranade
 image: images/Jasper.jpeg
 description: Undergraduate Researcher
-role: grad
+role: undergrad
 group: current
 aliases:
   - A. Ranade
