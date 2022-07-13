@@ -1,5 +1,5 @@
 ---
-title: Talk by Olav Krigolson
+title: Lecture by Jodie Bell
 tags: 
   - Talks
   - Lecture
