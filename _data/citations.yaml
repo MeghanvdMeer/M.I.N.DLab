@@ -1,5 +1,34 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1016/j.ejmp.2022.06.012
+  title: Reproducibility and repeatability of magnetic resonance imaging in dementia
+  authors:
+  - Catherine A. Morgan
+  - Reece P. Roberts
+  - Tessa Chaffey
+  - Lenore Tahara-Eckl
+  - Meghan van der Meer
+  - "Matthias G\xFCnther"
+  - Timothy J. Anderson
+  - Nicholas J. Cutfield
+  - John C. Dalrymple-Alford
+  - Ian J. Kirk
+  - Donna Rose Addis
+  - Lynette J. Tippett
+  - Tracy R. Melzer
+  publisher: Physica Medica
+  date: '2022-09-01'
+  link: https://doi.org/gqm9fn
+  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/phy.png
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_Morgan_etal_Elsevier.pdf
+  tags:
+  - Reproducibility
+  - Repeatability
+  - Dementia
+  - Quantitative MRI
+  - Resting state fMRI
 - id: 10.1016/j.nicl.2022.103139
   title: 'Altered brain network topology in children with auditory processing disorder:
     A resting-state multi-echo fMRI study'
