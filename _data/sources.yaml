@@ -1,21 +1,4 @@
 
-- id: 10.1016/j.ejmp.2022.06.012
-  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/phy.png
-  extra-links:
-    - type: pdf
-      link: pdfs/2022_Morgan_etal_Elsevier.pdf
-  tags:
-    - Reproducibility
-    - Repeatability
-    - Dementia
-    - Quantitative MRI
-    - Resting state fMRI
-
-
-
-
-
-
 
 - id: 10.1016/j.nicl.2022.103139
   image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/NCL.jpg
@@ -30,6 +13,18 @@
 
 
 
+
+- id: 10.1016/j.ejmp.2022.06.012
+  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/phy.png
+  extra-links:
+    - type: pdf
+      link: pdfs/2022_Morgan_etal_Elsevier.pdf
+  tags:
+    - Reproducibility
+    - Repeatability
+    - Dementia
+    - Quantitative MRI
+    - Resting state fMRI
 
 
 - id: 10.1371/journal.pone.0262563
