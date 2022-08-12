@@ -19,25 +19,5 @@
   - ASD
   - DTI
   
-- id: 10.1016/j.nicl.2022.103139
-  title: Altered brain network topology in children with auditory processing disorder: A resting-state multi-echo fMRI study
-  authors:
-  - Ashkan Alvand
-  - Abin Kuruvilla-Mathew
-  - Ian J. Kirk
-  - Reece P. Roberts
-  - Mangor Pedersen
-  - Suzanne C. Purdy
-  publisher: Elsevier
-  date: '2022-08-01'
-  link: https://doi.org/10.1016/j.nicl.2022.103139
-  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/Elsevier_logo.png
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_Alvand_etal_Elsevier.pdf
-  tags:
-  - APD
-  - fMRI
-  - Network Neuroscience
 
 
