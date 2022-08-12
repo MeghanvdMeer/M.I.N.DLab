@@ -13,8 +13,8 @@
   link: https://doi.org/10.1016/j.nicl.2022.103139
   image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/Elsevier_logo.png
   extra-links:
-  - type:
-    link:  
+  - type: pdf
+    link: pdfs/2022_Alvand_etal_Elsevier.pdf
   tags:
   - APD
   - fMRI
