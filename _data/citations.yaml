@@ -1,27 +1,5 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: 10.1016/j.nicl.2022.103139
-  title: 'Altered brain network topology in children with auditory processing disorder:
-    A resting-state multi-echo fMRI study'
-  authors:
-  - Ashkan Alvand
-  - Abin Kuruvilla-Mathew
-  - Ian J. Kirk
-  - Reece P. Roberts
-  - Mangor Pedersen
-  - Suzanne C. Purdy
-  publisher: 'NeuroImage: Clinical'
-  date: '2022-01-01'
-  link: https://doi.org/gqm9fd
-  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/NCL.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2022_Alvand_etal_Elsevier.pdf
-  tags:
-  - APD
-  - fMRI
-  - Network Neuroscience
-  - Pediatric
 - id: 10.1016/j.ejmp.2022.06.012
   title: Reproducibility and repeatability of magnetic resonance imaging in dementia
   authors:
@@ -51,6 +29,28 @@
   - Dementia
   - Quantitative MRI
   - Resting state fMRI
+- id: 10.1016/j.nicl.2022.103139
+  title: 'Altered brain network topology in children with auditory processing disorder:
+    A resting-state multi-echo fMRI study'
+  authors:
+  - Ashkan Alvand
+  - Abin Kuruvilla-Mathew
+  - Ian J. Kirk
+  - Reece P. Roberts
+  - Mangor Pedersen
+  - Suzanne C. Purdy
+  publisher: 'NeuroImage: Clinical'
+  date: '2022-01-01'
+  link: https://doi.org/gqm9fd
+  image: https://meghanvdmeer.github.io/M.I.N.DLab/images/journal_covers/NCL.jpg
+  extra-links:
+  - type: pdf
+    link: pdfs/2022_Alvand_etal_Elsevier.pdf
+  tags:
+  - APD
+  - fMRI
+  - Network Neuroscience
+  - Pediatric
 - id: 10.1371/journal.pone.0262563
   title: A callosal biomarker of behavioral intervention outcomes for autism spectrum
     disorder? A case-control feasibility study with diffusion tensor imaging
