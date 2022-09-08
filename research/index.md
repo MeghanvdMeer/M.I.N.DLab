@@ -24,7 +24,7 @@ Our research interests are varied and aim to address some of the below areas of 
 We address these questions using a variety of mathematical and statistical tools as well as conducting experiments. We have current projects focused on network systems, and population dynamics. We are always open to collaborate with other researchers on a variety of topics. 
 
 
-# <i class="fas field"></i>Field work
+# <i class="fas field"></i>Marsden Grant
 
 
 **The Neural Dynamics of Cognitive Control: Theta-range Neural Oscillations and Frontal Executive Function**
