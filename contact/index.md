@@ -8,7 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Our lab is part of the [Department of Psychology](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/psychology.html), at the [University of Auckland](https://www.auckland.ac.nz/en.html). We are also affiliated with the [Centre for Brain Research](https://www.auckland.ac.nz/en/fmhs/research/cbr.html).
-We are located on the 3rd floor of the Science Centre.
+
 
 {%
   include link.html
