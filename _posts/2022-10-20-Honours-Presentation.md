@@ -18,7 +18,7 @@ They both did very well and we would like to congratulate Hayat and Haneyn on th
   image1="images/blog_post_images/IMG_8897.jpg "
   tooltip1="Haneyn Poster Presentation"
 
-  image1="images/blog_post_images/IMG_8905.jpg "
+  image2="images/blog_post_images/IMG_8905.jpg "
   tooltip1="Hayat Poster Presentation"
 
 %}
