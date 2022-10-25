@@ -15,9 +15,10 @@ They both did very well and we would like to congratulate Hayat and Haneyn on th
 {%
   include gallery.html
 
-  image1="images/Olav_Talk.png "
-  tooltip1="Cog Neuro talk from Olav"
+  image1="images/blog_post_images/IMG_8897.jpg "
+  tooltip1="Haneyn Poster Presentation"
 
-
+  image1="images/blog_post_images/IMG_8905.jpg "
+  tooltip1="Hayat Poster Presentation"
 
 %}
