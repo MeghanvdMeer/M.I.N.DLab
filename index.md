@@ -5,7 +5,15 @@ title: Home
 # research into neural networks underlying memory and learning
 
 
-The M.I.N.D Lab at the [University of Auckland](https://www.auckland.ac.nz/en.html) is a team of scientists combining experiments with mathematical and statistical tools to address the neuronal changes our brains go through on a regular basis. We address questions related to ageing populations as well as children, effects of caffeine on the brain, and network connectivity in several states. A common thread throughout our work is the role of neural variability. We are currently conducting research into The Neural Dynamics of Cognitive Control: Theta-range Neural Oscillations and Frontal Executive Function.
+The M.I.N.D Lab at the [University of Auckland](https://www.auckland.ac.nz/en.html) utilises experimental, mathematical, and statistical tools to understand the neural activities that underlie behaviour. We investigate neural systems subserving memory, attention, and cognitive control. We have particular interest in neural oscillations, plasticity, and network dynamics utilising EEG and MRI (fMRI and DWI). 
+
+Current themes include:
+
+1. A broadscale project to understand relationships between different cognitive control and working memory
+2. Investigating structural and functional networks (connectomics)
+3. Understanding the ageing brain and Alzheimer's disease
+4. The relationship between EEG osciallatory phenomena and behaviour
+5. Signatures of human neural plasticity
 
 {%
   include figure.html
@@ -36,7 +44,7 @@ We strive to make our work accessible and freely available to other scientists, 
 
 
 {% capture text %}
-We are a team of scientists that address both basic and applied questions in neuroscience and Psychology. We strive to build an inclusive environment in order to foster a more diverse, equitable, and productive scientific workforce. 
+We are a team of neuroscientists that address both basic and applied questions in neuroscience and Psychology. We strive to build an inclusive environment in order to foster a more diverse, equitable, and productive scientific workforce. 
 
 [Meet our team &nbsp;→](team)
 {:.center}
