@@ -3,7 +3,7 @@ name: Amogh Ranade
 image: images/Jasper.jpeg
 description: Undergraduate Researcher
 role: undergrad
-group: current
+group: alumni
 aliases:
   - A. Ranade
 links:
