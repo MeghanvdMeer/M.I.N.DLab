@@ -2,7 +2,7 @@
 name: Milly Darragh
 image: images/Jasper.jpeg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate researcher
 aliases: 
   - M. Darragh
