@@ -16,4 +16,4 @@ links:
   
 ---
 
-Hayat
+Hayat has just begun her PhD within the Kirk Lab. 
