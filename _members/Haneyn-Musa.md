@@ -2,7 +2,7 @@
 name: Haneyn Musa
 image: images/Jasper.jpeg
 role: undergrad
-group: current
+group: alumni
 description: Undergraduate researcher
 aliases: 
   - H. Musa
