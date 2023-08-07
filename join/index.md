@@ -15,12 +15,12 @@ All lab members must:
 
 ## Undergraduate and Graduate students
 
-The lab often has openings for undergraduate and graduate students at UoA to contribute to projects or design a project for a thesis/research experience. These can be paid or count as course credits. These projects are typically co-designed by the student, graduate students, and Professor Ian Kirk. The students most likely to be accepted for a position are those with a keen interest in developing skills in the context of neuroscience research. If you are interested, please send <i.kirk@auckland.ac.nz> a CV and brief introduction, including details of your prior research experience, as well as your research interests and goals and how you think these align with my research program.
+The lab often has openings for undergraduate and graduate students at UoA to contribute to projects or design a project for a thesis/research experience. These can be paid or count as course credits. These projects are typically co-designed by the student, graduate students, and Professor Ian Kirk. The students most likely to be accepted for a position are those with a keen interest in developing skills in the context of neuroscience research. If you are interested, please send <i.kirk@auckland.ac.nz> a CV and brief introduction, including details of your prior research experience, as well as your research interests and goals and how you think these align with our research.
 
 
 ## PhD Candidates
 
-The lab often has openings for PhD students. I am also open to collaboratively working on proposals to help fund independent PhD positions through several different programs.
+The lab often has openings for PhD students. We are also open to collaboratively working on proposals to help fund independent PhD positions through several different programs.
 
 Further information for doctoral candidates can be found [here](https://www.auckland.ac.nz/en/students/academic-information/postgraduate-students/doctoral.html). 
 
