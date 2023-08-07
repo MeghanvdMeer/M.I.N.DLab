@@ -1,7 +1,7 @@
 ---
 name: Rohan King
 image: images/headshots/Rohan_King.png
-description: PhD graduate
+description: Post Doctoral Fellow
 role: postdoc
 group: current
 aliases:
