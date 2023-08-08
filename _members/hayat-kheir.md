@@ -2,7 +2,7 @@
 name: Hayat Kheir
 image: images/Jasper.jpeg
 description: PhD Student
-role: Graduate
+role: grad
 group: current
 aliases:
   - H. Kheir
