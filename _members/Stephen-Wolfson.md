@@ -1,5 +1,5 @@
 ---
-name: STEPHEN S. WOLFSON
+name: Stephen S. Wolfson
 image: images/headshots/steve.jpg
 role: grad
 group: alumni
