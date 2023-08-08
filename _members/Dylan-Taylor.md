@@ -2,7 +2,7 @@
 name: Dylan Taylor
 image: images/headshots/Dylan_Taylor.png
 description: PhD Student
-role: graduate
+role: grad
 group: current
 aliases:
   - D.Taylor
