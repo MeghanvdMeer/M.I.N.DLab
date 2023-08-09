@@ -1,6 +1,6 @@
 ---
 name: Inanna Haddon
-image: images/Jasper.jpeg
+image: images/headshots/Inanna.jpeg
 description: Master's Student
 role: undergrad
 group: current
