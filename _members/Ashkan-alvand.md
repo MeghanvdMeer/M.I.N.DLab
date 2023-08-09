@@ -2,7 +2,7 @@
 name: Ashkan Alavnd
 image: images/headshots/Ash.jpg
 description: Post Doctoral Fellow
-role: grad
+role: postdoc
 group: current
 aliases:
   - A. Alvand
