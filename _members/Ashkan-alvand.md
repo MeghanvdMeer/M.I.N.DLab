@@ -1,5 +1,5 @@
 ---
-name: Ashkan Alavnd
+name: Ashkan Alvand
 image: images/headshots/Ash.jpg
 description: Post Doctoral Fellow
 role: postdoc
