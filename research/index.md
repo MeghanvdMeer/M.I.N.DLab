@@ -29,7 +29,7 @@ We address these questions using a variety of mathematical and statistical tools
 
 **The Neural Dynamics of Cognitive Control: Theta-range Neural Oscillations and Frontal Executive Function**
  
-Professor Ian Kirk in collaboration with Dr. Christopher Erb, Dr. Meg Spriggs, and Professor Olav Krigolson
+Professor Ian Kirk in collaboration with Dr. Christopher Erb, Dr. Meg Spriggs, Dr. Rohan King and Professor Olav Krigolson
  
 Cognitive control refers to the neuro-mechanisms of self control (resisting impulsively or distraction). Cognitive control is required in language and memory functions, for decision making, and for cognitive flexibility. Although the areas of the brain involved in cognitive control are well studied, we know relatively little of how interactions between different brain areas dynamically change within and between tasks. Our aim here is to record electrical neuroactivity in specific brain circuits during cognitive control tasks to gain a better understanding of the dynamic interactions between brain areas during tasks requiring cognitive control. In addition, using structural brain imaging, we will map this activity onto the structural brain networks involved. This work will provide a much more detailed picture of how cognitive control is instantiated in the brain. More broadly, this work will allow for future investigation into how individual differences might arise during development, during ageing, or in psychological or neurological disorders.
 
