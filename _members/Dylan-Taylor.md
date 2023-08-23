@@ -17,4 +17,4 @@ links:
   
 ---
 
-Dylan Taylor is currently a PhD student within the Kirk Lab, he began his PhD in 2023. He completed his Master's degree in 2022. He was using diffusion imaging to look at how the white matter in the brain changes due to aging or disease. To do this he used graph theoretic measures to look at network “connectivity” in a collection of ways, the current focus being on the development of an analysis with flow graphs, particularly, maximum flow. 
+Dylan grew up in Whangārei leaving to attempt to join the circus. After a brief stint doing professional dance training, he ended up at the University of Auckland studying mathematics, theoretical computer science and psychology. His honour’s and Master’s research looked at white matter structures using diffusion MRI, where he discovered network neuroscience. After completing his Master’s in 2022, he went on to start a PhD trying to combine network science, information science and ideas from complex systems, to the study of cognitive control. He enjoys collaborative projects where people can bring different views onto the same problem. 
