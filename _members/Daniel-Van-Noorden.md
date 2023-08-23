@@ -1,6 +1,6 @@
 ---
 name: Daniel Van Noorden
-image: images/Jasper.jpeg
+image: images/headshots/Daniel_Van_Noorden.jpg
 description: PhD Student
 role: grad
 group: current
