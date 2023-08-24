@@ -9,7 +9,7 @@ aliases:
 links:
   email: r.king@auckland.ac.nz
   home-page: https://profiles.auckland.ac.nz/r-king
-  github: https://github.com/neuroro
+  github: neuroro
   linkedin:
   twitter: 
   orcid:
