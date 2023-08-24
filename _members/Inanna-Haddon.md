@@ -2,7 +2,7 @@
 name: Inanna Haddon
 image: images/headshots/Inanna.jpeg
 description: Master's Student
-role: undergrad
+role: grad
 group: current
 aliases:
   - I. Haddon
