@@ -9,7 +9,7 @@ aliases:
 links:
 
   email: dtay196@aucklanduni.ac.nz
-  github: github.com/dylan-taylor
+  github: dylan-taylor
   home-page:
   linkedin:
   twitter: 
