@@ -3,7 +3,7 @@ name: Ashkan Alvand
 image: images/headshots/Ash.jpg
 description: Research Associate
 role: postdoc
-group: current
+group: alumni
 aliases:
   - A. Alvand
 links:
