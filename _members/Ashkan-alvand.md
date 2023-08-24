@@ -1,8 +1,8 @@
 ---
 name: Ashkan Alvand
 image: images/headshots/Ash.jpg
-description: PhD Graduate
-role: postdoc
+description: PhD graduate
+role: grad
 group: alumni
 aliases:
   - A. Alvand
