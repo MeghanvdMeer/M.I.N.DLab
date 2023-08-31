@@ -1,18 +1,19 @@
 ---
-name: Daniel Yoem
+name: Daniel Yeom
 image: images/headshots/Daniel_Yoem.jpg
-description: Master's graduate
+description: Honour's graduate
 role: grad
 group: alumni
 aliases:
-  - Dan Yoem
+  - Dan Yeom
 links:
-  email: daniel.yeom@student.unimelb.edu.au
+  email: yeom.d@unimelb.edu.au
   home-page:
   github: 
   linkedin:
-  twitter: 
-  orcid:
+  twitter:
+  Google Scholar: https://scholar.google.com.au/citations?user=zvYEfOwAAAAJ&hl=en&oi=ao
+  orcid: https://orcid.org/0000-0002-1281-6299
   
 ---
 
