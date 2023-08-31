@@ -1,6 +1,6 @@
 ---
 name: Daniel Yeom
-image: images/headshots/Daniel_Yoem.jpg
+image: images/headshots/Daniel_Yeom.jpg
 description: Honour's graduate
 role: grad
 group: alumni
