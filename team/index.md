@@ -113,7 +113,15 @@ There are often openings for graduate students and PhD students within the M.I.N
 
 1. Inga Dzionsko (Germany)
 2. Nikki Dreijer (Netherlands)
-3. Morgan Lloyd (Summer Scholar from New Zealand)
+3. Morgan Lloyd
+4. Abby Exton
+5. Amogh Ranade
+6. Diya Suresh
+7. Haneyn Musa
+8. Jeffrey Kim
+9. Sancharya Pahwa
+10. Shaun Oliver
+11. Milly Darragh
 
 
 {% include section.html %}
