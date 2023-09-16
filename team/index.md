@@ -109,7 +109,7 @@ There are often openings for graduate students and PhD students within the M.I.N
 
 {% include section.html %}
 
-# Visiting students
+# Alumni and visiting students
 
 1. Inga Dzionsko (Germany)
 2. Nikki Dreijer (Netherlands)
