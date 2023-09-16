@@ -14,7 +14,7 @@ As a lab we are continually updating our skills and training in a variety of neu
 
 
 ## Systems we currently use
-We employ a variety of neurological imaging techniques such as Brain Products ActiCap Slim EEG 64 channel, EGI EEG system, MRI and fMRI. We hope to further our research into M.E.G (Magnetoencephalography) and TMS (transcranial magnetic stimulation) techniques.
+We employ a variety of neurological imaging techniques such as Brain Products ActiCap Slim EEG 64 channel, EGI EEG system, MRI and fMRI. In the future, we hope to expand our research into M.E.G (Magnetoencephalography) and TMS (transcranial magnetic stimulation) techniques.
 
 ## EGI EEG System: 
 EGI EEG system is a net-based system pictured below. It uses HydroCel electrodes on a geodesic sensor net. We currently have the 128 channel net for heads sized for infants (42-43cm, 44-47cm, 47-51cm) and adults (55-58cm). More information can be found [here](https://www.egi.com/research-division/eeg-systems/geodesic-eeg-systems). 
