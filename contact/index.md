@@ -44,7 +44,7 @@ Our lab is part of the [School of Psychology](https://www.auckland.ac.nz/en/stud
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 The M.I.N.D Lab,
-Department of Psychology,
+School of Psychology,
 Science Centre 301- Bldg 301, 
 23 Symonds St, 
 Auckland Central, 
