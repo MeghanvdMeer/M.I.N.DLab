@@ -8,11 +8,12 @@ aliases:
   - G. Groult
 links:
   email:
-  home-page: Genevieve-Groult-2
+  home-page: 
   github: 
   linkedin: genevieve-siobhan-groult
   twitter: 
   orcid: 0000-0002-3671-6655
+  research gate:  https://www.researchgate.net/profile/Genevieve-Groult-2
   
 ---
 
