@@ -26,8 +26,4 @@ Director of the M.I.N.D Lab
 PI in the Centre for Brain Research
 Advisory Committee member of the Dementia Prevention Research Clinics (DPRC)
 
-  <!--
-[Easton's CV as a pdf](https://quantmarineecolab.github.io/pdfs/EastonWhite_CV.pdf)
 
-![](/images/mynetwork.png)
--->
