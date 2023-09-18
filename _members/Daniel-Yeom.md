@@ -13,7 +13,7 @@ links:
   linkedin:
   twitter:
   Google Scholar: https://scholar.google.com.au/citations?user=zvYEfOwAAAAJ&hl=en&oi=ao
-  orcid: https://orcid.org/0000-0002-1281-6299
+  orcid: 0000-0002-1281-6299
   
 ---
 
